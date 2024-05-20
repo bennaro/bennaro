@@ -50,7 +50,10 @@
 <a href="https://linkedin.com/in/bennaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bennaro" height="30" width="40" /></a>
 </p>
 
-<!--
+<details>
+
+<summary><h3>My Portfolio</h3></summary>
+
 ## My Game Development Portfolio
 
 This repository showcases a collection of my game development projects built with various technologies.
@@ -87,7 +90,8 @@ Features:
 * View detailed recipe information, including step-by-step instructions and ingredient lists
 * Developed in Swift with a focus on clean, efficient code and established design guidelines
 * This collection showcases my diverse skillset in game development. From building a simple clicker game to collaborating on a third-person adventure and crafting a functional recipe app, I'm always eager to learn and explore new game development concepts.
--->
+
+</details>
 
 
 
