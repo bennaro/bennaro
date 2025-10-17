@@ -1,11 +1,4 @@
-## Hi there, I'm Benjamin 👋
-
-### About Me
-
-- 🎓 Currently pursuing a Bachelor's degree in Frontend & Mobile Development at Kristiania University, Oslo.
-- 💼 App developer with a passion for building intuitive interfaces, crafting clean code, and creating an overall enjoyable user experience.
-- 💻 Proficient in a wide range of technologies, from frontend to backend.
-- 🌐 Always eager to learn and explore new technologies and tools.
+## Hi
 
 ### Connect with me
 
